@@ -1,0 +1,38 @@
+{
+  "baseline": {
+    "total_usd_per_year": 981701350.4954582,
+    "component_recompute_matches": true,
+    "all_four_demands_met": true,
+    "supply_mass_capacity_land_checks": true,
+    "distance_max_error_km": 2.842170943040401e-14,
+    "delivered_t": {
+      "PKN": 300000.0,
+      "BPN": 300000.0,
+      "PNK": 300000.0,
+      "TRK": 299999.99999999953
+    },
+    "biomass_t": 5999999.999999998
+  },
+  "final": {
+    "total_usd_per_year": 890148271.3658861,
+    "component_recompute_matches": true,
+    "all_four_demands_met": true,
+    "supply_mass_capacity_land_checks": true,
+    "distance_max_error_km": 0,
+    "delivered_t": {
+      "PNK": 300000.0,
+      "PKN": 300000.0,
+      "BPN": 300000.0,
+      "TRK": 300000.0
+    },
+    "biomass_t": 6000000.0
+  },
+  "source_commit": "4ef8167800a5ced730617a152646013964840e6a",
+  "sensitivity": {
+    "source_plans": 63,
+    "plus_final_polished_plan": 1,
+    "method": "Exact repricing of stored feasible designs, not live reoptimisation; frozen-pattern stress uses exported flows",
+    "fresh_sensitivity_validation_in_package": false,
+    "outages": "Flows from failed refinery and its co-located depots stop; original other flows unchanged; fixed costs retained; no rerouting claim"
+  }
+}
