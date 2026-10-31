@@ -1,6 +1,6 @@
 # Kalimantan SAF network presentation
 
-Open [index.html](index.html) in a browser. The five-slide deck works offline with no install or external assets. Use the left/right arrow keys to navigate and **F** for fullscreen. The interactive analysis is on slide4. A stacked view is available at `index.html#sheet`.
+Open [index.html](index.html) in a browser. The opening cover leads into five content slides. The deck works offline with no install or external assets. Choose **Start presentation**, or **Explore scenarios** to open slide4 directly. Use the left/right arrow keys to navigate, **Home** to return to the cover and **F** for fullscreen. Existing links `#1`–`#5` still open the corresponding content slides. A stacked view is available at `index.html#sheet`.
 
 The presentation keeps the original deck’s typography, cobalt/neutral palette, maps and five-screen story while using the teammate’s uploaded model package. [Speaking script](presentation/SCRIPT.md) fits the three-minute presentation, including a short technical explanation and demo.
 

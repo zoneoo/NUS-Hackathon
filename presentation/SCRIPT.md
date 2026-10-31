@@ -1,3 +1,5 @@
+Opening: leave the cover visible before the timed pitch. Press Enter or choose Start presentation when the three-minute pitch begins. The five timed content screens and speaking script below are unchanged.
+
 # Three-minute pitch — official teammate model
 
 Aim to finish at 2:55. Approximately 330 spoken words; allow short pauses for navigation and demo actions. A: business speaker. B: modelling teammate.
